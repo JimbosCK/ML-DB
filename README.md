@@ -15,6 +15,7 @@ The dataset used for this project is the [Diabetes prediction dataset](https://w
 - `data/`: Contains the dataset used for training and testing the machine learning models.
 - `src/`: Source code for implementing machine learning models and preprocessing functions.
 - `docs/`: Documentation related to the project, such as literature reviews, thesis document, and presentations.
+- `Jupyter Notebook/`: Jupyter Notebook that contains same code but with markdown notes etc.
 
 
 ### Citation
