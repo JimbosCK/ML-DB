@@ -20,5 +20,6 @@ The dataset used for this project is the [Diabetes prediction dataset](https://w
 
 ### Citation
 If you find this work helpful in your research, please consider citing:
+
 [Link to full thesis paper.](https://polynoe.lib.uniwa.gr/xmlui/handle/11400/7283) 
 [Dimitrios Chatziathanasiou-Karakasis, "Diabetes Prediction Using Machine Learning Techniques," University of West Attica, 2024]
